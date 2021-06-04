@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Iu hok <3',
     btnReply: 'Gửi cho nè <3',
     reply: 'Iu <33333333',
-    mess: ' moaa ',
+    mess: ' moaah ',
     messDesc: 'Tối nay game nhé.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
