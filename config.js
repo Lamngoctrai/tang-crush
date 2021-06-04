@@ -1,14 +1,14 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Cơ mà
-    À mà thôi`,
+    introTitle: 'Babee à!',
+    introDesc: `Em ơi chốn lãnh cung eo sầu lạnh lẽo
+    Làm sao để được nhõng nhẽo với em đêyy
+    Ối xời ơi nó mượt
+    Cứ thế này anh đổ mất thôi :<`,
     btnIntro: 'hihi',
     title: 'Em ơi chớ lấy chồng xa 😙',
     desc: 'Lấy anh cho khỏe đám ma cho gần ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
+    btnYes: 'Vẫn muốn lấy anh <33',
+    btnNo: 'Không, Ai rảnh :3',
     question:'Iu hok <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì cút <33333333',
