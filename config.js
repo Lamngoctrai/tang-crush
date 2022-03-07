@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babee à!',
-    introDesc: `Em ơi chốn lãnh cung eo sầu lạnh lẽo
-    Làm sao để được nhõng nhẽo với em đêyy
-    Ối xời ơi nó mượt
-    Cứ thế này anh đổ mất thôi :<`,
-    btnIntro: 'hihi :V ',
+    introTitle: 'Hương hỏ !',
+    introDesc: `Chỉ là chiếc web xàm nhân ngày 8/3 thuii`,
+    btnIntro: 'Mở màn nha ',
     title: 'Cũng không gì quan trọng 😙',
-    desc: 'Em ăn cơm chưa??',
-    btnYes: 'Chưa, Ăn anh <33',
-    btnNo: 'Chưa, Ai rảnh :3',
-    question:'Iu hok <3',
+    desc: 'Ngọc Trai có đẹp trai hong',
+    btnYes: 'Qtqd luôn xh xĩu bạch bạch',
+    btnNo: 'Khum',
+    question:'Hong có chửi chó nha',
     btnReply: 'Gửi cho nè <3',
-    reply: 'Iu <33333333',
+    reply: 'Okii aiu',
     mess: ' moaah ',
-    messDesc: 'Tối nay game nhé.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'Ơ thì chiếc web này chỉ muốn chúc XH 8/3 dui dẻ nhaaa.',
+    btnAccept: 'Vậy ó hỏ',
+    messLink: 'https://www.facebook.com/ngoctrai.hg.hn' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
