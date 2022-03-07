@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho nè <3',
     reply: 'Okii aiu',
     mess: ' Moaah ',
-    messDesc: 'Ơ thì chiếc web này chỉ muốn chúc XH 8/3 dui dẻ, hong có tặng hoa bời vì chả ai lại mang hoa tặng cho hoa cả .',
+    messDesc: 'Ơ thì chiếc web này chỉ muốn chúc XH 8/3 dui dẻ hong có tặng hoa bời vì chả ai lại mang hoa tặng cho hoa cả .',
     btnAccept: 'Vậy ó hỏ',
     messLink: 'https://www.facebook.com/ngoctrai.hg.hn' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
